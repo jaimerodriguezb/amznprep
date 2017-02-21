@@ -50,7 +50,7 @@ public class Quicksort {
 		}
 		printA(a);
 		quicksort(a, 0, l - 1);
-//		printA(a);
+		printA(a);
 	}
 	
 }

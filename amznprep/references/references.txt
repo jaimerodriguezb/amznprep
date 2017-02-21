@@ -1,2 +1,6 @@
 BST to DLL
 http://datastructuresnotes.blogspot.com.co/2009/02/binary-tree-traversal-preorder-inorder.html
+
+The Algorithm Design Manual
+https://github.com/haseebr/competitive-programming/blob/master/Materials/The%20Algorithm%20Design%20Manual%20by%20Steven%20S.%20Skiena.pdf
+http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.471.4772&rep=rep1&type=pdf
